@@ -10,7 +10,7 @@ I'm a passionate software engineer with a knack for crafting clean code and solv
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<a href="https://app.daily.dev/lowin"><img src="https://api.daily.dev/devcards/v2/CyGAPqXnkUIkZkdBKWCKZ.png?type=default&r=m6l" width="356" alt="LOWIN's Dev Card"/></a>
+<a href="https://app.daily.dev/lowin"><img src="https://api.daily.dev/devcards/v2/CyGAPqXnkUIkZkdBKWCKZ.png?type=default&r=m6l" width="652" alt="LOWIN's Dev Card"/></a>
 
 ### 💼 Experience
 - **[Current Company/Role]**: Working on [brief description of current projects/responsibilities].

@@ -1,10 +1,6 @@
-## Hi there 👋
+## 👋 Hello, I'm Lowin!
 
-
-**lowinn/lowinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+I'm a passionate software engineer with a knack for crafting clean code and solving complex problems. My journey in software development has been driven by a curiosity to build efficient and scalable solutions that make a difference.
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -15,10 +11,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <a href="https://app.daily.dev/lowin"><img src="https://api.daily.dev/devcards/v2/CyGAPqXnkUIkZkdBKWCKZ.png?type=default&r=m6l" width="356" alt="LOWIN's Dev Card"/></a>
-
-## 👋 Hello, I'm Lowin!
-
-I'm a passionate software engineer with a knack for crafting clean code and solving complex problems. My journey in software development has been driven by a curiosity to build efficient and scalable solutions that make a difference.
 
 ### 💼 Experience
 - **[Current Company/Role]**: Working on [brief description of current projects/responsibilities].

@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
+<a href="https://app.daily.dev/lowin"><img src="https://api.daily.dev/devcards/v2/CyGAPqXnkUIkZkdBKWCKZ.png?type=default&r=m6l" width="356" alt="LOWIN's Dev Card"/></a>
 
 ## 👋 Hello, I'm Lowin!
 

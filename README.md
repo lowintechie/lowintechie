@@ -13,7 +13,7 @@ I'm a passionate software engineer with a knack for crafting clean code and solv
 <a href="https://app.daily.dev/lowin"><img src="./lowindevcard.png?type=wide&r=tel" width="652" alt="LOWIN's Dev Card"/></a>
 
 ### 💼 Experience
-- **[Current Company/Role]**: Working on [brief description of current projects/responsibilities].
+- **[Sofware]**: Working on [brief description of current projects/responsibilities].
 - **[Previous Company/Role]**: Contributed to [mention notable projects or achievements].
 
 ### 🌟 Skills
@@ -25,13 +25,13 @@ I'm a passionate software engineer with a knack for crafting clean code and solv
 - **[Your Degree]** in [Your Major] from [Your University/College]
 
 ### 🚀 Projects
-- **[Project Name]**: [Brief description, link to GitHub repo or live demo if applicable]
-- **[Project Name]**: [Brief description, link to GitHub repo or live demo if applicable]
+- **[Portfolio]**: [https://github.com/lowinn/portfolio]
+- **[Hiqlink]**: [Brief description, link to GitHub repo or live demo if applicable]
 
 ### 📫 Contact Me
-- LinkedIn: [Your LinkedIn Profile URL]
-- Email: [Your Email Address]
+- LinkedIn: [www.linkedin.com/in/lowindevs]
+- Email: [sanawin.long@hotmail.com]
 
 ### 💬 About Me
-I thrive in collaborative environments where creativity and innovation are encouraged. Outside of coding, you can find me [mention hobbies or interests]. Let's connect and discuss how we can leverage technology to build something amazing!
+I thrive in collaborative environments where creativity and innovation are encouraged. Outside of coding, you can find me at Chicken Farm. Let's connect and discuss how we can leverage technology to build something amazing!
 

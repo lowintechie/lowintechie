@@ -1,32 +1,37 @@
-## 👋 Hello, I'm LOWIN!
+# 👋 Hey there! I’m Lowin
 
-I'm a passionate software engineer with a knack for crafting clean code and solving complex problems. My journey in software development has been driven by a curiosity to build efficient and scalable solutions that make a difference.
-- 🔭 I’m currently working on scalable applications.
-- 🌱 I’m currently learning advanced cloud technologies.
-- 👯 I’m looking to collaborate on innovative projects.
-- 🤔 I’m looking for help with technology integration.
-- 💬 Ask me about software development best practices.
-- 📫 How to reach me: [www.linkedin.com/in/lowindevs]
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy exploring new tech gadgets!
+💻 **Software Engineer | Backend & Web Developer | Based in Cambodia 🇰🇭**
 
-<a href="https://app.daily.dev/lowin"><img src="./lowindevcard.png?type=wide&r=tel" width="652" alt="LOWIN's Dev Card"/></a>
+I build **scalable web applications**, design **efficient APIs**, and love turning ideas into products with clean, modern architecture.
 
-### 🌟 Skills
+---
 
-- **Languages**: Proficient in a variety of programming languages for diverse development needs.
-- **Frameworks/Libraries**: Experienced with a range of frameworks and libraries across different development domains.
-- **Tools/Technologies**: Skilled in using essential tools and technologies for efficient development, deployment, and maintenance.
+### 🧰 Tech Stack
 
-My expertise spans web, client, server, mobile development, and DevOps, enabling me to tackle a wide array of projects.
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 
-### 🚀 Projects
-- **[Portfolio]**: [https://github.com/lowinn/portfolio]
-- **[Hiqlink]**: [https://github.com/lowinn/hiqlink]
+---
 
-### 📫 Contact Me
-- LinkedIn: [www.linkedin.com/in/lowindevs]
-- Email: [sanawin.long@hotmail.com]
+### 🚀 Focus Areas
 
-### 💬 About Me
-I thrive in collaborative environments where creativity and innovation are encouraged. Outside of coding, you can find me at Chicken Farm. Let's connect and discuss how we can leverage technology to build something amazing!
+* Backend architecture & API design
+* Cloud deployment & automation
+* Database performance & optimization
+* Modern frontend integration
+
+---
+
+### 📫 Connect with Me
+
+🌐 [GitHub](https://github.com/lowin-dev)
+💼 [LinkedIn](https://linkedin.com/in/lowin)
+💬 [Telegram](https://t.me/lowin)
+
+---
+
+> 💡 “Build, learn, and share — one line of code at a time.”

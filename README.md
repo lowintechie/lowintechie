@@ -1,4 +1,4 @@
-# 👋 Hey there! I’m Lowin
+<img width="1137" height="1336" alt="image" src="https://github.com/user-attachments/assets/4b7306e3-c6cf-453b-8232-d1af8f232497" /># 👋 Hey there! I’m Lowin
 
 💻 **Software Engineer | Backend & Web Developer | Based in Cambodia 🇰🇭**
 
@@ -28,9 +28,9 @@ I build **scalable web applications**, design **efficient APIs**, and love turni
 
 ### 📫 Connect with Me
 
-🌐 [GitHub](https://github.com/lowin-dev)
-💼 [LinkedIn](https://linkedin.com/in/lowin)
-💬 [Telegram](https://t.me/lowin)
+🌐 [GitHub](https://github.com/lowintechie)
+💼 [LinkedIn](https://linkedin.com/in/lowintechie)
+💬 [Telegram](https://t.me/lowwinn)
 
 ---
 

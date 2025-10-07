@@ -1,4 +1,4 @@
-<img width="1137" height="1336" alt="image" src="https://github.com/user-attachments/assets/4b7306e3-c6cf-453b-8232-d1af8f232497" /># 👋 Hey there! I’m Lowin
+# 👋 Hey there! I’m Lowin
 
 💻 **Software Engineer | Backend & Web Developer | Based in Cambodia 🇰🇭**
 
